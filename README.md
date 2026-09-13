@@ -31,6 +31,8 @@ through EDHM UI, restart EDHM UI, and import the new ZIP again.
 
 See [INSTALLATION.md](INSTALLATION.md) for expanded instructions and
 [VERIFYING-DOWNLOADS.md](VERIFYING-DOWNLOADS.md) for checksum verification.
+For common fixes, see [Troubleshooting](TROUBLESHOOTING.md). Theme-specific reports
+and EDHM support requests are routed in [Support](SUPPORT.md).
 
 ## What this project changes
 
