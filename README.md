@@ -12,7 +12,7 @@ Created by **Nova_R & G_Wiz**.
 
 ## Screenshots
 
-See the [in-game gallery](GALLERY.md) for cockpit, station-service, and EDHM UI
+See the [in-game gallery](GALLERY.md) for cockpit, menu-preview, and EDHM UI
 examples from seven contrasting themes.
 
 ![AURA Master HUD cockpit preview](assets/aura-theme-preview.png)
