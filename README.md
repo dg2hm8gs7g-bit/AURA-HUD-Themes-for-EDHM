@@ -10,6 +10,15 @@ dedicated contrast colour.
 
 Created by **Nova_R & G_Wiz**.
 
+## Part of the AURA Command Suite
+
+AURA Master HUD is part of the wider **AURA Command Suite**—a growing collection
+of immersive tools, interfaces, and experiences built for commanders.
+
+**[Explore the AURA Command Suite →](https://aura-command.net/)**
+
+*Your cockpit. Your signal. Your command.*
+
 ## Screenshots
 
 See the [in-game gallery](GALLERY.md) for cockpit, menu-preview, and EDHM UI
